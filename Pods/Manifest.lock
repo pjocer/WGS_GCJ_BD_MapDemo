@@ -1,0 +1,16 @@
+PODS:
+  - AMapLocation (1.2.2)
+  - AMapSearch (3.3.0)
+  - BaiduMapKit (2.10.2)
+
+DEPENDENCIES:
+  - AMapLocation
+  - AMapSearch
+  - BaiduMapKit
+
+SPEC CHECKSUMS:
+  AMapLocation: 5412fbf0385716d4d481e39a95929057cddc093f
+  AMapSearch: cff4faf59c007f7d1f2bae2d7170c3912783981a
+  BaiduMapKit: b1706a062597c70ec62a0cca93212cba1d3017e1
+
+COCOAPODS: 0.36.4
